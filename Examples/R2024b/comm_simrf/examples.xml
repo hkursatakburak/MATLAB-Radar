@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>RFNoiseExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RFNoiseExample.html</file>
+    <metadata>ex05956875</metadata>
+    <thumbnail>html/RFNoiseExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>comm</product>
+    <product>simrf</product>
+    <product>simulink</product>
+    <file component="comm_simrf" open="open" timestamp="1637568639">RFNoise.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>LowIFReceiverExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex12500789</metadata>
+    <thumbnail>html/LowIFReceiverExample_08.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>comm</product>
+    <product>simulink</product>
+    <product>simrf</product>
+    <file component="comm_simrf" timestamp="1581617393">LowIFReceiver.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>DevelopBasebandTransmitterAndReceiverExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex29923284</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>comm</product>
+    <product>simrf</product>
+    <file component="comm_simrf" timestamp="1689952671">TopDownRFReceiverDesignLink.slx</file>
+    <file component="comm_simrf" timestamp="1707745699">TopDownRFReceiverDesignTx.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ImpactOfRFEffectsOnCommunicationSystemPerformanceRFExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex32100448</metadata>
+    <product>matlab</product>
+    <product>comm</product>
+    <product>simrf</product>
+    <file component="comm_simrf" timestamp="1721136943">ImpactOfRFEffectsOnCommSystemPerformance_rf.slx</file>
+    <file component="comm_simrf" timestamp="1721136943">RFEffectsExampleMask_rf.m</file>
+  </demoitem>
+  <demoitem>
+    <source>PACharacterizationWithDPDForReducedDistortionExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex37079009</metadata>
+    <thumbnail>html/PACharacterizationWithDPDForReducedDistortionExample_04.png</thumbnail>
+    <sandboxPublished/>
+    <product>comm</product>
+    <product>matlab</product>
+    <product>simrf</product>
+    <product>simulink</product>
+    <file component="comm_simrf" timestamp="1671098633">simrfV2_powamp_dpd.slx</file>
+    <file component="comm_simrf" timestamp="1671098633">simrfV2_powamp_dpd_comms.slx</file>
+    <file component="comm_simrf" timestamp="1594966050">antenna_dpdexample.s1p</file>
+    <file component="comm_simrf" timestamp="1593720113">helperPACharGenerateOFDM.m</file>
+    <file component="comm_simrf" timestamp="1593720113">helperPACharMemPolyModel.m</file>
+    <file component="comm_simrf" timestamp="1594742261">helperPACharSavedData100MHz.mat</file>
+    <file component="comm_simrf" timestamp="1594742261">helperPACharSavedDataTones.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>TopDownDesignOfRFReceiverTwoExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43691365</metadata>
+    <thumbnail>data/ti_topdownrf.png</thumbnail>
+    <file component="comm_simrf" timestamp="1698852030">ti_topdownrf.png</file>
+    <noButton/>
+  </demoitem>
+  <demoitem>
+    <source>TopDownRFReceiverDesignExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex61212318</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>comm</product>
+    <product>simrf</product>
+  </demoitem>
+  <demoitem>
+    <source>DetermineRFReceiverSpecificationsExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex70531993</metadata>
+    <product>matlab</product>
+    <product>comm</product>
+    <product>simrf</product>
+    <file component="comm_simrf" timestamp="1689955790">TopDownRFReceiverDesignIdealBaseband.slx</file>
+    <file component="comm_simrf" timestamp="1689955790">TopDownRFReceiverDesignIdealBaseband_cgxe.mexw64</file>
+    <file component="comm_simrf" timestamp="1677758556">TopDownRFReceiverDesignLib.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>RefineRFReceiverModelAndSimulateRFImpairmentsExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex84402784</metadata>
+    <product>matlab</product>
+    <product>comm</product>
+    <product>simrf</product>
+    <file component="comm_simrf" timestamp="1677755271">CaptureIP2.png</file>
+    <file component="comm_simrf" timestamp="1677755271">CapturePN.png</file>
+    <file component="comm_simrf" timestamp="1677755271">CaptureZ.png</file>
+    <file component="comm_simrf" timestamp="1704729231">TopDownRFReceiverDesignCircuitEnvelope.slx</file>
+    <file component="comm_simrf" timestamp="1680025883">TopDownRFReceiverDesignCircuitEnvelope_cgxe.mexw64</file>
+    <file component="comm_simrf" timestamp="1677755271">TopDownRFReceiverDesignLib.slx</file>
+    <file component="comm_simrf" timestamp="1677755271">topdown_app.png</file>
+    <file component="comm_simrf" timestamp="1679067459">SAW_Filter_Data_passive.s2p</file>
+  </demoitem>
+  <demoitem>
+    <source>ObtainMeasDataProgForSpectrumAnalyzerBlockInSimRFExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ObtainMeasDataProgForSpectrumAnalyzerBlockInSimRFExample.html</file>
+    <metadata>ex84875133</metadata>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="comm_simrf" open="open" timestamp="1663756433">amplifySigNoise.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ImpactOfThermalNoiseOnCommunicationSystemPerformanceExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ImpactOfThermalNoiseOnCommunicationSystemPerformanceExample.html</file>
+    <metadata>ex88176750</metadata>
+    <thumbnail>html/ImpactOfThermalNoiseOnCommunicationSystemPerformanceExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>comm</product>
+    <product>simrf</product>
+    <product>simulink</product>
+    <file component="comm_simrf" open="open" timestamp="1619466820">RFReceiverImpactExample.slx</file>
+    <file component="comm_simrf" timestamp="1619466820">RFReceiverImpactTestbenches.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>PowerAmplifierCharacterizationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex89231406</metadata>
+    <thumbnail>html/PowerAmplifierCharacterizationExample_08.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>comm</product>
+    <file component="repository/spc" timestamp="1592839860">Measurement.m</file>
+    <file component="repository/spc" timestamp="1592839860">NIRFmxDriver.m</file>
+    <file component="repository/spc" timestamp="1592839860">NIVSGDriver.m</file>
+    <file component="repository/spc" timestamp="1592839860">NIRFmxSpecAn.m</file>
+    <file component="repository/spc" timestamp="1592839860">NIRFmxPersonality.m</file>
+    <file component="repository/spc" timestamp="1592342621">NIVSTDriver.m</file>
+    <file component="repository/spc" timestamp="1593720113">SpecAnAMAMMeasurement.m</file>
+    <file component="comm_simrf" timestamp="1668608118">helperPACharGenerateOFDM.m</file>
+    <file component="comm_simrf" timestamp="1668608118">helperPACharGenerateTones.m</file>
+    <file component="repository/spc" timestamp="1593720113">helperVSTDriver.m</file>
+    <file component="comm_simrf" timestamp="1593720113">helperPACharGridSearchFrequency.m</file>
+    <file component="comm_simrf" timestamp="1593720113">helperPACharGridSearchTime.m</file>
+    <file component="comm_simrf" timestamp="1593720113">helperPACharRMSFreq.m</file>
+    <file component="comm_simrf" timestamp="1653390821">helperPACharPlotGain.m</file>
+    <file component="comm_simrf" timestamp="1653390821">helperPACharPlotInput.m</file>
+    <file component="comm_simrf" timestamp="1593720113">helperPACharPlotSpecAnAMAM.m</file>
+    <file component="comm_simrf" timestamp="1593720113">helperPACharPlotSpecAnGain.m</file>
+    <file component="repository/spc" timestamp="1653390821">helperPACharPlotSpectrum.m</file>
+    <file component="comm_simrf" timestamp="1592839860">helperPACharPlotTime.m</file>
+    <file component="comm_simrf" timestamp="1678376562">helperPACharMemPolyModel.m</file>
+    <file component="comm_simrf" timestamp="1594742261">helperPACharSavedData100MHz.mat</file>
+    <file component="comm_simrf" timestamp="1594742261">helperPACharSavedData15MHz.mat</file>
+    <file component="comm_simrf" timestamp="1594742261">helperPACharSavedData40MHz.mat</file>
+    <file component="comm_simrf" timestamp="1594742261">helperPACharSavedDataTones.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>SimulinkregRFBasebandAmplifierWithNonlinearityAndNoiseExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex91181939</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simrf</product>
+    <product>comm</product>
+    <file component="comm_simrf" timestamp="1588001006">math_amp5.slx</file>
+    <file component="comm_simrf" timestamp="1674730568">examplecs.png</file>
+    <file component="comm_simrf" timestamp="1674730568">examplecs10.png</file>
+  </demoitem>
+  <demoitem>
+    <source>SimulateHighPowerOutofBandInterferingSignalExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex96869316</metadata>
+    <product>matlab</product>
+    <product>comm</product>
+    <product>simrf</product>
+    <file component="comm_simrf" timestamp="1703342183">TopDownRFReceiverDesignCircuitEnvelopeWithInterferer.slx</file>
+    <file component="comm_simrf" timestamp="1704728716">TopDownRFReceiverDesignCircuitEnvelopeWithInterferer_cgxe.mexw64</file>
+    <file component="comm_simrf" timestamp="1677756448">TopDownRFReceiverDesignLib.slx</file>
+    <file component="comm_simrf" timestamp="1679083344">SAW_Filter_Data_passive.s2p</file>
+    <file component="comm_simrf" timestamp="1680117516">dcoffsetalgo2.png</file>
+  </demoitem>
+</demos>
