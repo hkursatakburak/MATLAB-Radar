@@ -1,0 +1,43 @@
+# MATLAB için genel olarak görmezden gelinecek dosyalar
+#----------------------------------------------------
+# Geçici ve otomatik oluşturulan dosyalar
+
+# Otomatik kaydedilen dosyalar
+*.asv
+*.m~
+*.autosave
+
+# MATLAB'ın derlediği MEX dosyaları
+*.mexa64
+*.mexw32
+*.mexw64
+*.mexglx
+*.mex
+*.mex*
+
+# Paketlenmiş uygulama ve toolbox dosyaları
+*.mlappinstall
+*.mltbx
+
+# Simulink ve kod oluşturma klasörleri
+slprj/
+sccprj/
+codegen/
+rtw/
+html/
+_sharedutils/
+
+# MATLAB app designer verileri
+*.mlapp.data
+
+# MATLAB Yardım arama dizinleri
+helpsearch/
+
+# Gizli MATLAB ayar dosyaları
+.matlab/
+
+# Octave için oturum bilgisi
+octave-workspace
+
+# Otomatik oluşturulan ve genellikle kaynak kontrolüne dahil edilmeyen diğer dosyalar
+untitled.*
