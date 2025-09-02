@@ -32,7 +32,6 @@ Bu deponun ana referansı, alanında bir klasik olan **"Radar Systems Analysis a
 <div align="center">
   <img src="https://i.imgur.com/eQz0G6o.png" alt="MATLAB ve Radar Uygulaması" width="600"/>
   <br>
-  <i>Örnek bir MATLAB arayüz görseli (Temsili)</i>
 </div>
 
 ---
@@ -77,7 +76,6 @@ The core reference for this repository is the classic book **"Radar Systems Anal
 <div align="center">
   <img src="https://i.imgur.com/eQz0G6o.png" alt="MATLAB and Radar Application" width="600"/>
   <br>
-  <i>A sample MATLAB interface visual (Representative)</i>
 </div>
 
 ---
